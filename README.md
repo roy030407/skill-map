@@ -5,22 +5,6 @@
 
 ---
 
-## 📸 Screenshots
-
-### Landing Page — AI Career Coach
-![SkillMap Homepage](screenshots/homepage.png)
-*AI-powered career guidance, interview prep, industry insights, and smart résumé creation — all in one platform.*
-
-### AI-Generated Learning Roadmaps
-![Learning Roadmaps](screenshots/roadmaps.png)
-*Enter any skill or job role → get a personalised 30–40 step learning roadmap instantly. Supports beginner to advanced levels.*
-
-### Industry Insights Dashboard
-![Industry Insights](screenshots/insights.png)
-*AI-generated market growth analysis, skills demand distribution, and career opportunity data — updated dynamically per industry.*
-
----
-
 ## 🚀 What Is SkillMap?
 
 SkillMap is a full-stack AI edtech platform built to disrupt career development. Instead of generic advice, it uses **LLMs to generate personalised, actionable career pathways** for any skill or job profile — in seconds. Every tool on the platform is AI-powered and connected to real-world data.
